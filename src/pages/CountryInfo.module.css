@@ -1,0 +1,122 @@
+.countryFlag {
+  width: 100%;
+  height: 40vh;
+}
+
+.countryName {
+  margin-bottom: 5rem;
+  font-size: 2rem;
+}
+
+.info {
+  display: flex;
+  gap: 8rem;
+  font-size: 1.3rem;
+}
+
+.btn {
+  width: 15%;
+  padding: 0.6rem;
+  font-size: 1rem;
+  border: none;
+  background-color: white;
+  border-radius: 0.6rem;
+  box-shadow: 0 0.2rem 0.8rem rgba(0, 0, 0, 0.25);
+  list-style: none;
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
+.btn-dark {
+  background-color: gray;
+  width: 15%;
+  padding: 0.6rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 0.6rem;
+  box-shadow: 0 0.2rem 0.8rem rgba(0, 0, 0, 0.25);
+  list-style: none;
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
+.btn-dark:hover {
+  transition: all 0.8s;
+  background-color: #414747;
+}
+
+.btn:hover {
+  transition: all 0.8s;
+  background-color: gray;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+  height: 100vh;
+}
+
+.container-dark {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+  height: 100vh;
+}
+.col2 {
+  margin-top: 130px;
+}
+
+.btnFlag {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.bordersLink {
+  font-size: 1rem;
+  text-decoration: none;
+  color: black;
+  border-radius: 0.4rem;
+  box-shadow: 0 0.2rem 0.8rem rgba(0, 0, 0, 0.25);
+  padding: 0.3rem;
+  margin-right: 0.8rem;
+}
+
+.bordersLink-dark {
+  background-color: gray;
+  font-size: 1rem;
+  text-decoration: none;
+  color: black;
+  border-radius: 0.4rem;
+  box-shadow: 0 0.2rem 0.8rem rgba(0, 0, 0, 0.25);
+  padding: 0.3rem;
+  margin-right: 0.8rem;
+}
+
+.bordersLink-dark:hover {
+  transition: all 0.9s;
+  background-color: #414747;
+}
+
+.bordersLink:hover {
+  transition: all 0.9s;
+  background-color: gray;
+}
+
+.btns {
+  display: flex;
+  gap: 1rem;
+}
+
+.contain-dark {
+  background-color: #161716;
+  color: #7d8181;
+}

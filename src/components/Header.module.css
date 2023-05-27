@@ -1,0 +1,31 @@
+.header {
+  box-shadow: 0 4px 2px -2px rgba(139, 138, 138, 0.25);
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-dark {
+  background-color: #161716;
+  color: #7d8181;
+}
+
+.head {
+  font-size: 30px;
+  font-weight: 700;
+  margin-left: 190px;
+  margin-top: 20px;
+  padding-bottom: 20px;
+}
+
+.icon {
+  margin-right: 100px;
+  margin-top: 30px;
+  font-size: 20px;
+  border: none;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.icon-dark {
+  background-color: #161716;
+}

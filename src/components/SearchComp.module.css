@@ -1,0 +1,21 @@
+.search {
+  width: 170%;
+  padding: 1rem;
+  font-size: 1.2rem;
+  border-color: white;
+  box-shadow: 0 0.2rem 0.8rem rgba(68, 67, 67, 0.25);
+  border: none;
+  outline: none;
+}
+
+.search-dark {
+  color: #7b7e7d;
+  background-color: #353a3a;
+  width: 170%;
+  padding: 1rem;
+  font-size: 1.2rem;
+  border-color: white;
+  box-shadow: 0 0.2rem 0.8rem rgba(68, 67, 67, 0.25);
+  border: none;
+  outline: none;
+}

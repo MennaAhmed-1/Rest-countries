@@ -1,0 +1,26 @@
+.bigContainer {
+  display: grid;
+  grid-template-columns: repeat(4, 20rem);
+  column-gap: 5rem;
+  row-gap: 4rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 45%;
+  margin-bottom: 4rem;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.links {
+  text-decoration: none;
+  color: black;
+}
+
+.bigContainer-dark {
+  background-color: #161716;
+}
